@@ -2,7 +2,7 @@
 // https://gist.github.com/mkozakov/59af0fd5bddbed1a0399
 public class Solution {
 
-	//solution is basically to find the two tallest towers 
+	// solution is basically to find the two tallest towers 
 	// that are furthest left and furthest right of the diagram, and then calculate the volume between them.
 	public static void main(String[] args) {
 		

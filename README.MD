@@ -1,0 +1,1 @@
+This repository contains my solutions/attempts for various algorithm and data structures. 
